@@ -1,10 +1,9 @@
 
-Bnode
+
+
 node('mavenlabel')
 {
+  stage("prep"){
+  }
 }
-B
 
-C
-
-nod
